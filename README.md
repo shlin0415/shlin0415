@@ -2,18 +2,22 @@
 
 ### The follows are the projects i have been worked on
 [PlantscRNAdb database](http://ibi.zju.edu.cn/plantscrnadb/)
+A plant single-cell database with gene and pathway markers.
 <p>
   <img src="images/pcdb.jpg" alt="PlantscRNAdb" width="60%" />
 </p>
 PCmaster_trait
+Linking key cell types to complex traits utilizing datasets with severe dropouts. 
 <p>
   <img src="images/pcmt.png" alt="PCmaster_trait" width="60%" />
 </p>
 PCmaster_anno
+Auto cell type annotation for single-cell and spatial datasets.
 <p>
   <img src="images/pcma.png" alt="PCmaster_trait" width="60%" />
 </p>
 A2DStudio
+Based on LingChat, WebGal, GPT-SoVITS, and other repos, for CP stories.
 <p>
   <img src="images/a2ds.jpg" alt="A2DStudio" width="60%" />
 </p>
