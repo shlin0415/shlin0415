@@ -5,10 +5,6 @@
 <p>
   <img src="images/pcdb.jpg" alt="PlantscRNAdb" width="50%" />
 </p>
-PCmaster_anno
-<p>
-  <img src="images/pcma.png" alt="PCmaster_anno" width="50%" />
-</p>
 PCmaster_trait
 <p>
   <img src="images/pcmt.png" alt="PCmaster_trait" width="50%" />
