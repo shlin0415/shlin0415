@@ -1,17 +1,21 @@
 ## Hello (｡･ω･｡)ﾉ
 
-### The follow are the projects i have been worked on
+### The follows are the projects i have been worked on
 [PlantscRNAdb database](http://ibi.zju.edu.cn/plantscrnadb/)
 <p>
-  <img src="images/pcdb.jpg" alt="PlantscRNAdb" width="50%" />
+  <img src="images/pcdb.jpg" alt="PlantscRNAdb" width="60%" />
 </p>
 PCmaster_trait
 <p>
-  <img src="images/pcmt.png" alt="PCmaster_trait" width="50%" />
+  <img src="images/pcmt.png" alt="PCmaster_trait" width="60%" />
+</p>
+PCmaster_anno
+<p>
+  <img src="images/pcma.png" alt="PCmaster_trait" width="60%" />
 </p>
 A2DStudio
 <p>
-  <img src="images/a2ds.jpg" alt="A2DStudio" width="50%" />
+  <img src="images/a2ds.jpg" alt="A2DStudio" width="60%" />
 </p>
 Thank you for meeting.
 
