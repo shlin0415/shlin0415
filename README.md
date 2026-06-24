@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello (｡･ω･｡)ﾉ
 
 <!--
 **shlin0415/shlin0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
